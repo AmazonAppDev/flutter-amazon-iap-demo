@@ -35,7 +35,7 @@ supported by the Amazon Appstore:
 
 1. Clone the following repository:
 
-`git clone https://github.com/AmazonAppDev/flutter_amazon_iap_demo`
+`git clone https://github.com/AmazonAppDev/flutter-amazon-iap-demo`
 
 2. Create the following IAP items on the Amazon Appstore console:
       1. A subscriptions with SKU `dev.giolaq.oneyear`
