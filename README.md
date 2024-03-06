@@ -14,7 +14,7 @@ To run the app an test it with the Amazon Appstore, you will need the following:
 ## ✅ Features
 
 <p align="center">
-<img src="https://github.com/AmazonAppDev/flutter_amazon_iap_demo/blob/main/images/homelocked.png?raw=true" width=50% height=50%>
+<img src="https://github.com/AmazonAppDev/flutter-amazon-iap-demo/blob/main/images/homelocked.png?raw=true" width=50% height=50%>
 </p>
 
 The project is about a fictional app *GIOLAQ Music* ( Not I'm not an actual singer 👨‍🎤 )
