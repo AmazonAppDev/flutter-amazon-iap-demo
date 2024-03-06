@@ -14,7 +14,7 @@ To run the app an test it with the Amazon Appstore, you will need the following:
 ## ✅ Features
 
 <p align="center">
-<img src="https://github.com/giolaq/flutter_amazon_iap_demo/blob/main/images/homelocked.png?raw=true" width=50% height=50%>
+<img src="https://github.com/AmazonAppDev/flutter_amazon_iap_demo/blob/main/images/homelocked.png?raw=true" width=50% height=50%>
 </p>
 
 The project is about a fictional app *GIOLAQ Music* ( Not I'm not an actual singer 👨‍🎤 )
@@ -35,7 +35,7 @@ supported by the Amazon Appstore:
 
 1. Clone the following repository:
 
-`git clone https://github.com/giolaq/flutter_amazon_iap_demo`
+`git clone https://github.com/AmazonAppDev/flutter_amazon_iap_demo`
 
 2. Create the following IAP items on the Amazon Appstore console:
       1. A subscriptions with SKU `dev.giolaq.oneyear`
