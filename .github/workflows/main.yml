@@ -1,18 +1,21 @@
-- name: Flutter build Android
-  uses: subosito/flutter-action@v2.13.0
+name: Flutter build Android
 
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+    
+jobs:
+  build:
 
-steps:
-- uses: actions/checkout@v4
-- uses: subosito/flutter-action@v2
-  with:
-    flutter-version: '2.19.1'
-- run: flutter pub get
-- run: flutter test
-- run: flutter build apk
-- run: flutter build appbundle
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '2.19.1'
+    - run: flutter pub get
+    - run: flutter test
+    - run: flutter build apk
+    - run: flutter build appbundle
