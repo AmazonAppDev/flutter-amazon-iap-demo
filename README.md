@@ -1,3 +1,5 @@
+![Android build](https://github.com/AmazonAppDev/flutter-amazon-iap-demo/actions/workflows/android.yml/badge.svg)
+
 # Amazon Appstore IAP Sample in Flutter
 
 This project is a sample Flutter App to showcase how you can use [Amazon Appstore IAP](https://developer.amazon.com/docs/in-app-purchasing/iap-get-started.html)
