@@ -1,4 +1,4 @@
-![Android build](https://github.com/AmazonAppDev/flutter-amazon-iap-demo/actions/workflows/main.yml/badge.svg)
+[![Android build](https://github.com/AmazonAppDev/flutter-amazon-iap-demo/actions/workflows/main.yml/badge.svg)](https://github.com/AmazonAppDev/flutter-amazon-iap-demo/actions/workflows/main.yml)
 
 # Amazon Appstore IAP Sample in Flutter
 
